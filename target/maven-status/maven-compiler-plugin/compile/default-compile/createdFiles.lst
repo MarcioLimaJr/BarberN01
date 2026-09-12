@@ -1,0 +1,9 @@
+modelos\atendimento.class
+modelos\cliente.class
+modelos\servico.class
+com\mycompany\barbern01\coringaJPA.class
+modelos\gerente.class
+com\mycompany\barbern01\JPAConexao.class
+modelos\barbeiro.class
+modelos\atendente.class
+com\mycompany\barbern01\BarberN01.class
